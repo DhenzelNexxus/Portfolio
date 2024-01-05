@@ -12,8 +12,8 @@ export function Header(){
           <Image
             src="/Dhenzel-icone-perfil.jpeg"
             alt="Vercel Logo"
-            width={325}
-            height={310}
+            width={280}
+            height={270}
             priority
           />
         </div>
