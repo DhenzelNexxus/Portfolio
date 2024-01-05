@@ -1,10 +1,10 @@
 import "./section-title.scss"
 
-interface SectionTitleProps{
+interface SectionTitleProps {
     text: string
 }
 
-export function SectionTitle({ text }: SectionTitleProps){
+export function SectionTitle({ text } : SectionTitleProps){
     return(
         <h3 className="section-title">{text}</h3>
     )
