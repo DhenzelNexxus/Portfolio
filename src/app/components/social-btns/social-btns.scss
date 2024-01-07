@@ -22,6 +22,13 @@
         }
     }
 
+    a:active{
+        border: 1px solid dodgerblue;
+        path{
+            fill: dodgerblue;
+        }
+    }
+
     @media (min-height: 768px) {
         
         a {
