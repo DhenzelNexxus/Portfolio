@@ -19,7 +19,7 @@ export function Info(){
         <div className="educational-info">
           <span>🎓</span>
           <span>
-            Bachelor's degree in information systems - UNI7 - Centro Universitario 7 de setembro
+            Bachelors degree in information systems - UNI7 - Centro Universitario 7 de setembro
           </span>
         </div>
       </div>
